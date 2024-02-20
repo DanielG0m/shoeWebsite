@@ -116,7 +116,7 @@ header::before{
 }
 
 header::after {
-    content: 'Ro645a';
+    content: '';
     position: absolute;
     top: 50%;
     left: 50%;
