@@ -1,4 +1,5 @@
 @import url(variables.css);
+
 body{
     background-color: var(--color-primary);
     font-family: var(--font-primary);
