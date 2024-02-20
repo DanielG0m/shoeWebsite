@@ -30,7 +30,7 @@ nav .container > div {
     align-items: center;
 }
 
-nav .menu, nav form, footer, footer.watch {
+nav .menu, nav form, .footer, .footer .watch {
     display: flex;
     justify-content: space-between;
     align-items: center;
